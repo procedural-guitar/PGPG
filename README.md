@@ -101,7 +101,3 @@ You can change variables such as the output folder, number of events, proportion
 
 * The project **does not include pre-generated datasets**, for reasons of size and reproducibility; the data must be generated locally.
 * Using JSON for the chord dictionaries makes it possible to modify or extend the musical rules without changing the code.
-
-## License
-
-No license file is currently included. Please check the repository for a `LICENSE` file before using or redistributing this software, or contact the author.
